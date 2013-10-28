@@ -73,7 +73,7 @@
     transition:all ease .6s;
     -ms-transition:all ease .6s;
     z-index:999;
-    overflow-y:scroll;
+    overflow-y:auto;
 }
 
 .border-right-white {
@@ -95,7 +95,7 @@
     right:0;
     bottom:0;
     z-index:1;
-    overflow-y:scroll;
+    overflow:auto;
 }
 
 #detail {
@@ -106,7 +106,7 @@
     z-index:2;
     transition:all ease .6s;
     -ms-transition:all ease .6s;
-    overflow-y:scroll;
+    overflow:auto;
 }
 
 .show-detail {
@@ -359,7 +359,7 @@
     left:0;
     right:0;
     bottom:30px;
-    overflow-x:hidden;
+    overflow:auto;
     background-color:white;
     color:black;
 }
