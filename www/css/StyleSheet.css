@@ -110,8 +110,6 @@
     position:absolute;
     top:0;
     bottom:0;
-    background-color:orange;
-    z-index:2;
     transition:all ease .9s;
     -ms-transition:all ease .9s;
     -o-transition:all ease .9s;
