@@ -116,6 +116,7 @@
     -moz-transition:all ease .9s;
     -webkit-transition:all ease .9s;
     overflow:auto;
+    z-index:888;
 }
 
 .show-detail {
@@ -137,6 +138,8 @@
     -moz-transition:all ease .9s;
     -webkit-transition:all ease .9s;
 }
+
+
 
 .space {
     width:100%;
