@@ -54,13 +54,13 @@
 <icon src="gmail.png" />
     
 
-<icon gap:density="ldpi" gap:platform="android" src="res/icon/android/lv.png" />
+<icon gap:density="ldpi" gap:platform="android" src="gmail.png" />
     
-<icon gap:density="mdpi" gap:platform="android" src="res/icon/android/lv.png" />
+<icon gap:density="mdpi" gap:platform="android" src="gmail.png" />
     
-<icon gap:density="hdpi" gap:platform="android" src="res/icon/android/lv.png" />
+<icon gap:density="hdpi" gap:platform="android" src="gmail.png" />
     
-<icon gap:density="xhdpi" gap:platform="android" src="res/icon/android/lv.png" />
+<icon gap:density="xhdpi" gap:platform="android" src="gmail.png" />
  
    
 <icon gap:platform="blackberry" src="res/icon/blackberry/icon-80.png" />
