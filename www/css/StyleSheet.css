@@ -62,11 +62,11 @@
     bottom:0;
     background-color:black;
     overflow:hidden;
-    transition:all ease 1.2S;
-    -ms-transition:all ease 1.2S;
-    -o-transition:all ease 1.2S;
-    -moz-transition:all ease 1.2S;
-    -webkit-transition:all ease 1.2S;
+    transition:all ease .9s;
+    -ms-transition:all ease .9s;
+    -o-transition:all ease .9s;
+    -moz-transition:all ease .9s;
+    -webkit-transition:all ease .9s;
 }
 
 #nav {
@@ -112,32 +112,32 @@
     bottom:0;
     background-color:orange;
     z-index:2;
-    transition:all ease 1.2S;
-    -ms-transition:all ease 1.2S;
-    -o-transition:all ease 1.2S;
-    -moz-transition:all ease 1.2S;
-    -webkit-transition:all ease 1.2S;
+    transition:all ease .9s;
+    -ms-transition:all ease .9s;
+    -o-transition:all ease .9s;
+    -moz-transition:all ease .9s;
+    -webkit-transition:all ease .9s;
     overflow:auto;
 }
 
 .show-detail {
     left:0;
     width:100%;
-    transition:all ease 1.2S;
-    -ms-transition:all ease 1.2S;
-    -o-transition:all ease 1.2S;
-    -moz-transition:all ease 1.2S;
-    -webkit-transition:all ease 1.2S;
+    transition:all ease .9s;
+    -ms-transition:all ease .9s;
+    -o-transition:all ease .9s;
+    -moz-transition:all ease .9s;
+    -webkit-transition:all ease .9s;
 }
 
 .hide-detail {
     width:0px;
     left:100%;
-    transition:all ease 1.2S;
-    -ms-transition:all ease 1.2S;
-    -o-transition:all ease 1.2S;
-    -moz-transition:all ease 1.2S;
-    -webkit-transition:all ease 1.2S;
+    transition:all ease .9s;
+    -ms-transition:all ease .9s;
+    -o-transition:all ease .9s;
+    -moz-transition:all ease .9s;
+    -webkit-transition:all ease .9s;
 }
 
 .space {
